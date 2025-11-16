@@ -25,5 +25,7 @@ This project simulates a real-world cab booking experience, allowing users to re
 ## 🖼️ Screenshots
 
 ![Home Screen](asset/screenshot1.png)
+![Home Screen](asset/screenshot2.png)
+![Home Screen](asset/screenshot3.png)
 
 
