@@ -23,10 +23,10 @@ This project simulates a real-world cab booking experience, allowing users to re
 ---
 
 ## 🖼️ Screenshots
-
+<div style="display:flex; gap:10px; flex-wrap: wrap;">
 <img src="asset/screenshot1.png" alt="Home Screen" width="400"/>
 <img src="asset/screenshot2.png" alt="Home Screen" width="400"/>
 <img src="asset/screenshot3.png" alt="Home Screen" width="400"/>
-
+</div>
 
 
