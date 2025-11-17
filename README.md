@@ -1,5 +1,7 @@
 # 🚖 Cab Booking System in Python
 
+![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+
 A simple yet functional **Cab Booking System** built using Python and the Tkinter library. This project provides a user-friendly interface for booking cabs, calculating fare details, and generating receipts — a great starting point for first-year IT students learning GUI-based Python applications.
 
 ---
